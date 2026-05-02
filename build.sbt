@@ -23,14 +23,14 @@ Test / logBuffered := false
 lazy val pekkoV = "1.5.0"
 lazy val pekkoGrpcV = "1.2.0"
 lazy val jenaV = "5.6.0"
-lazy val rdf4jV = "5.3.0"
+lazy val rdf4jV = "5.3.1"
 lazy val titaniumApiV = "1.0.0"
 lazy val titaniumNqV = "1.0.2"
 lazy val neo4jV = "5.26.0"
 lazy val protobufV = "4.34.1"
-lazy val javapoetV = "0.14.0"
+lazy val javapoetV = "0.15.0"
 lazy val jmhV = "1.37"
-lazy val grpcV = "1.80.0"
+lazy val grpcV = "1.81.0"
 
 lazy val jellyCliV = "0.8.0"
 
